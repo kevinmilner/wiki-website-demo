@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+title: Wiki-Website Demo
+description: This is a demo of my GitHub Wiki to Github Pages workflow
+show_downloads: false
